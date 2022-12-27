@@ -1,0 +1,2 @@
+# Linguadapt
+Linguadapt algorithm.
